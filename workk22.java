@@ -1,5 +1,5 @@
- class eating { // declare 
-    void table1(){
+ class eating { // define class called meeting 
+    void table1(){ // define method "table1" within class
         System.out.println("mango");
         System.out.println("orange");
         System.out.println("apple");
@@ -7,7 +7,7 @@
     }
 }
 class pays extends  eating{
-public void  table2(){
+public void  table2(){ //Define a method 'table2' within the 'pays' class define method "table2" whin in pays class
     System.out.println("rice");
     System.out.println("beans");
     System.out.println("potatoes");
